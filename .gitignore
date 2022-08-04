@@ -1,0 +1,6 @@
+JongGeon/Debug/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+JongGeon/.vs/
