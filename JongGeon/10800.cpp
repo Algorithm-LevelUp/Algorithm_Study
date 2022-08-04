@@ -20,7 +20,6 @@ int main() {
 		cin >> n1 >> n2;
 		v.push_back({ { n2,n1 }, i });
 	}
-	
 	sort(v.begin(), v.end());
 	
 	for (int i = 1; i <= n; i++) {
