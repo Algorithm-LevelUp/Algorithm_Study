@@ -54,7 +54,7 @@ public class _24445_ { //알고리즘 수업-너비 우선 탐색2
 			list.get(v).add(u);
 		}
 
-		for (int i = 1; i < n + 1; i++) { // 오름차순
+		for (int i = 1; i < n + 1; i++) { 
 			Collections.sort(list.get(i), Collections.reverseOrder());
 		}
 		answer=new int[n];
