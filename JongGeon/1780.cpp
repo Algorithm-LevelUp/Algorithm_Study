@@ -5,7 +5,7 @@
 
 using namespace std;
 int n;
-int arr[10000][10000];
+int arr[3000][3000];
 int cnt[3];
 void sol(int x1, int y1, int x2, int y2) {
 	bool flag = false;
@@ -19,12 +19,12 @@ void sol(int x1, int y1, int x2, int y2) {
 			}
 		}
 	}
-	cout << x1 << " " << y1 << " " << x2 << " " << y2 << "\n";
+	//cout << x1 << " " << y1 << " " << x2 << " " << y2 << "\n";
 
-	int nx = (x1 + x2) / 3;
-	int ny = (y1 + y2) / 3;
-	int nnx = nx*2;
-	int nny = ny*2;
+	int nx = x1 + (x2-x1)/3 ;
+	int ny = y1 + (y2-y1) / 3;
+	int nnx = nx + (x2 - x1) / 3;
+	int nny = ny + (y2 - y1) / 3;
 		if (flag) {
 		sol(x1, y1, nx, ny);
 		sol(x1, ny, nx, nny);
