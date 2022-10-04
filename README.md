@@ -16,3 +16,31 @@ https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/2
 ### 3주차
 https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/3
 그래프(8문제)
+
+### 4주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/4
+삼성 A형 역량평가 대비(BOJ)
+
+### 5주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/5
+SWEA 코드배틀 문제 & 최소 신장 트리
+
+### 6주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/6
+분할정복, 이분탐색
+
+### 7주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/7
+DP(동적 계획법)
+
+### 8주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/8
+프로그래머스 2022 KAKAO BLIND RECRUITMENT
+
+### 9주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/9
+삼성 A형 역량평가 대비(SWEA)
+
+### 10주차
+https://github.com/Algorithm-LevelUp/Algorithm_Study/issues/10
+삼성 A형 역량평가 대비(SWEA)
